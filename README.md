@@ -62,3 +62,7 @@ git clone https://github.com/OmarAbdelall/Advanced-Alarm.git
 cd Advanced-Alarm
 ```
 2- Compile the Java files.
+
+## Note
+* Ensure the TimeUp.wav file is in the project directory for the alarm sound to work.<br>
+* The server should be running to handle client requests for timer setup.<br>
