@@ -58,7 +58,7 @@ The project contains the following classes:<br>
 To run the project, follow these steps:<br>
 1- Clone the repository:
 ```
-git clone https://github.com/OmarAbdelall/NSL-KDD.git 
+git clone https://github.com/OmarAbdelall/Advanced-Alarm.git 
 cd Advanced-Alarm
 ```
 2- Compile the Java files.
