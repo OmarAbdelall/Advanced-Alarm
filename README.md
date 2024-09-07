@@ -10,6 +10,6 @@ Advanced Alarm is a Java-based project from my first year of university, featuri
 ### [Usage](#Usage) <br>
 ### [Notes](#Notes) <br> 
 
-##Introduction
+## Introduction
 The Advanced Alarm project demonstrates a variety of Java programming concepts, including GUI development with Swing, multithreading, and basic networking using sockets.<br>
 The alarm system has several components like a Stopwatch, a Loading animation, and a Ring function that triggers sound playback when the timer runs out.<br>
