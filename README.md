@@ -52,3 +52,13 @@ The project contains the following classes:<br>
 * Sets up a simple server using ServerSocket to communicate with clients.<br>
 * Sends messages to the client allowing them to set a timer on the alarm.<br>
 * Runs in a separate thread to handle connections and messages asynchronously.<br>
+
+## Usage
+
+To run the project, follow these steps:<br>
+1- Clone the repository:
+```
+git clone https://github.com/OmarAbdelall/NSL-KDD.git 
+cd Advanced-Alarm
+```
+2- Compile the Java files.
